@@ -73,6 +73,3 @@ The dataset does not specify the currency associated with closing values, so rev
 
 Ensure the CSV files are available in `data/raw/` and that the notebook's relative file paths match the folder structure.
 
-## Author
-
-Business Analytics Student | Aspiring Business Analyst
